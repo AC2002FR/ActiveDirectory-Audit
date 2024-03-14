@@ -3,6 +3,4 @@
 In progress...
 |#                                                                                                             | 1%
 
-## Progress Bar
-
-![Progress](https://progress-bar.dev/50?title=completed)
+![Progress](https://progress-bar.dev/60/?width=1000&title=completed)
