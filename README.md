@@ -23,19 +23,19 @@ ActiveDirectory-Audit is a collection of PowerShell scripts for performing vario
 
 To install ActiveDirectory-Audit, clone the repository to your local machine:
 
-\`\`\`bash
+```bash
 git clone https://github.com/AC2002FR/ActiveDirectory-Audit.git
-\`\`\`
+```
 
 ## Usage
 
 To run an audit script, navigate to the script's directory in your PowerShell console, and execute it:
 
-\`\`\`powershell
+```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser # Only needed if your policy prevents script execution
 cd src/PasswordPolicies
 .\Check-PasswordPolicies.ps1
-\`\`\`
+```
 
 ## Contributing
 
@@ -52,7 +52,6 @@ Contributions to ActiveDirectory-Audit are welcomed and encouraged. If you would
 
 - **André CHAPOTON** - *Initial work*
 
-Thanks to all the contributors who have participated in this project.
 
 
 ## License
