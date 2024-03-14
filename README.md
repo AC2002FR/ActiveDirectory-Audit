@@ -1,8 +1,5 @@
 # ActiveDirectory-Audit
 
-In progress...
-🟩🟧⬜⬜⬜⬜⬜⬜⬜⬜
+In progress... 🟩🟧⬜⬜⬜⬜⬜⬜⬜⬜ 
 
-In progress...
-
-|#-------------------| 5%
+20 % every week
