@@ -1,5 +1,5 @@
 # ActiveDirectory-Audit
 
-In progress... 🟩🟧⬜⬜⬜⬜⬜⬜⬜⬜ 
+In progress... 🟩🟧⬜⬜⬜⬜⬜⬜⬜⬜ | 10% Finish
 
-20 % every week
+
