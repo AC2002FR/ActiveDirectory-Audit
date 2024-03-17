@@ -1,0 +1,4 @@
+Review-AuditSettings.ps1
+ENGLISH: This script reviews the audit settings in an Active Directory domain. It fetches and reports on the current configuration of audit policies, including which activities are logged by domain controllers.
+
+FRENCH: Ce script passe en revue les paramètres d'audit dans un domaine Active Directory. Il récupère et rapporte la configuration actuelle des politiques d'audit, y compris les activités qui sont enregistrées par les contrôleurs de domaine.

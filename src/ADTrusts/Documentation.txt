@@ -1,0 +1,4 @@
+Audit-ADTrusts.ps1
+ENGLISH: Audits the trusts established with the Active Directory domain. The script lists all trusts, detailing their names, trust direction, trust type, and whether the trust is transitive.
+
+FRENCH: Audite les trusts établis avec le domaine Active Directory. Le script liste tous les trusts, en détaillant leurs noms, la direction du trust, le type de trust et si le trust est transitif.
