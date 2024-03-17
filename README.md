@@ -1,6 +1,6 @@
 # ActiveDirectory-Audit
 
-In progress : 🟩🟩🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 10% Finish
+In progress : 🟩🟩🟩🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 15% Finish
 
 ## Description
 
@@ -48,7 +48,7 @@ Contributions to ActiveDirectory-Audit are welcomed and encouraged. If you would
 5. Push to the branch (`git push origin my-new-feature`).
 6. Create a new Pull Request on GitHub.
 
-## Authors and Acknowledgments
+## Authors 
 
 - **André CHAPOTON** - *Initial work*
 
