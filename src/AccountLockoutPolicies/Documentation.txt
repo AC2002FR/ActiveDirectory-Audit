@@ -1,5 +1,0 @@
-Audit-AccountLockoutPolicies.ps1
-
-ENGLISH: This script audits the account lockout policies of an Active Directory domain. It retrieves and displays settings such as the account lockout threshold, lockout duration, and lockout observation window.
-
-FRENCH: Ce script audite les politiques de verrouillage de compte d'un domaine Active Directory. Il récupère et affiche les paramètres tels que le seuil de verrouillage de compte, la durée de verrouillage et la fenêtre d'observation de verrouillage.
