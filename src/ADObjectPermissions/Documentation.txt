@@ -1,5 +1,0 @@
-Audit-ADObjectPermissions.ps1
-
-ENGLISH: This script audits permissions on Active Directory objects. It retrieves and displays the Access Control List (ACL) for specified AD objects, highlighting the permissions granted to different users and groups.
-
-FRENCH: Ce script audite les permissions sur les objets Active Directory. Il récupère et affiche la Liste de contrôle d'accès (ACL) pour les objets AD spécifiés, mettant en évidence les permissions accordées aux différents utilisateurs et groupes.
