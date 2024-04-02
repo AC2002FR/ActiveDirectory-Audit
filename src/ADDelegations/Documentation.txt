@@ -1,5 +1,1 @@
-Review-ADDelegations.ps1
 
-ENGLISH: Reviews the security delegations within Active Directory. This script enumerates Organizational Units (OUs) and other AD objects to report on their delegated permissions.
-
-FRENCH: Passe en revue les délégations de sécurité au sein de Active Directory. Ce script énumère les Unités Organisationnelles (UO) et autres objets AD pour rapporter leurs permissions déléguées.
