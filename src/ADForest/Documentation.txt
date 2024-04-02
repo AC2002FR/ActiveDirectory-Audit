@@ -1,5 +1,0 @@
-Analyze-ADForest.ps1
-
-ENGLISH: Analyzes the Active Directory Forest, providing information on its configuration. The script reports on domains, trust relationships, functional levels, and other critical aspects of the AD Forest.
-
-FRENCH: Analyse la forêt Active Directory, fournissant des informations sur sa configuration. Le script rapporte sur les domaines, les relations de confiance, les niveaux fonctionnels et autres aspects critiques de la forêt AD.
